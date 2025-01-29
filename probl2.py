@@ -1,0 +1,6 @@
+nombre = float(input("entrer un nombre"))
+print(type(nombre))
+entier = (int(nombre))
+flottant = (float(nombre))
+print(entier)
+print(flottant)
